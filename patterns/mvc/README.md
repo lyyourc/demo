@@ -2,7 +2,7 @@
 a simple mvc pattern
 
 ## Demo
-check out [a counter app](drakeleung.github.io/demo/patterns/mvc/index.html)
+check out [a counter app](http://drakeleung.github.io/demo/patterns/mvc/index.html)
   
 ## How to Write
 Look at this picture first.
@@ -16,7 +16,7 @@ After that, You can write the code follow the picture.
 ## Controller
 - render view
 - register event
-- deal with event: manually make View listen to Model, and re-render View
+- deal with event: **manually make View listen to Model**, and re-render View
 
 ## Model
 - get attributes
