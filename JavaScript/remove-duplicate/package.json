@@ -1,0 +1,15 @@
+{
+  "name": "remove-duplicate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node test/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
